@@ -1,0 +1,208 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/1.17.0/utils/Draggable.min.js
+File Name: C:\Downloaded Web Sites\zethacraft.com\ajax\libs\gsap\1.17.0\utils\Draggable.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js
+File Name: C:\Downloaded Web Sites\zethacraft.com\ajax\libs\gsap\1.18.0\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yuumi_49.jpg
+File Name: C:\Downloaded Web Sites\zethacraft.com\cdn\img\champion\loading\Yuumi_49.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\zethacraft.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap
+File Name: C:\Downloaded Web Sites\zethacraft.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons+Outlined
+File Name: C:\Downloaded Web Sites\zethacraft.com\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialiconsoutlined/v109/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcd.otf
+File Name: C:\Downloaded Web Sites\zethacraft.com\s\materialiconsoutlined\v109\gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcd.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\zethacraft.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\zethacraft.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\zethacraft.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\zethacraft.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\zethacraft.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\zethacraft.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/ThrowPropsPlugin.min.js
+File Name: C:\Downloaded Web Sites\zethacraft.com\s.cdpn.io\16327\ThrowPropsPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://zethacraft.com/css/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\zethacraft.com\css\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://zethacraft.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\zethacraft.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://zethacraft.com/css/cartstyle.css
+File Name: C:\Downloaded Web Sites\zethacraft.com\css\cartstyle.css
+Content Type: text/css
+
+Uri: https://zethacraft.com/css/fontawesome-6/css/all.css
+File Name: C:\Downloaded Web Sites\zethacraft.com\css\fontawesome-6\css\all.css
+Content Type: text/css
+
+Uri: https://zethacraft.com/css/home.css
+File Name: C:\Downloaded Web Sites\zethacraft.com\css\home.css
+Content Type: text/css
+
+Uri: https://zethacraft.com/css/home2.css
+File Name: C:\Downloaded Web Sites\zethacraft.com\css\home2.css
+Content Type: text/css
+
+Uri: https://zethacraft.com/css/jquery-ui.css
+File Name: C:\Downloaded Web Sites\zethacraft.com\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://zethacraft.com/css/style.css
+File Name: C:\Downloaded Web Sites\zethacraft.com\css\style.css
+Content Type: text/css
+
+Uri: https://zethacraft.com/css/style2.css
+File Name: C:\Downloaded Web Sites\zethacraft.com\css\style2.css
+Content Type: text/css
+
+Uri: https://zethacraft.com/css/style3.css
+File Name: C:\Downloaded Web Sites\zethacraft.com\css\style3.css
+Content Type: text/css
+
+Uri: https://zethacraft.com/css/style_desaparecer.css
+File Name: C:\Downloaded Web Sites\zethacraft.com\css\style_desaparecer.css
+Content Type: text/css
+
+Uri: https://zethacraft.com/en
+File Name: C:\Downloaded Web Sites\zethacraft.com\en.html
+Content Type: text/html
+
+Uri: https://zethacraft.com/en/login
+File Name: C:\Downloaded Web Sites\zethacraft.com\en\login.html
+Content Type: text/html
+
+Uri: https://zethacraft.com/img/3d_full_recuerda.webp
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\3d_full_recuerda.webp
+Content Type: image/webp
+
+Uri: https://zethacraft.com/img/3d_full_recuerda_2.webp
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\3d_full_recuerda_2.webp
+Content Type: image/webp
+
+Uri: https://zethacraft.com/img/down-arrow-dark.svg
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\down-arrow-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://zethacraft.com/img/flags/ES.svg
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\flags\ES.svg
+Content Type: image/svg+xml
+
+Uri: https://zethacraft.com/img/fondo1.jpg
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\fondo1.jpg
+Content Type: image/jpeg
+
+Uri: https://zethacraft.com/img/iconos_all/4561.webp
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\iconos_all\4561.webp
+Content Type: image/webp
+
+Uri: https://zethacraft.com/img/logo.png
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\logo.png
+Content Type: image/png
+
+Uri: https://zethacraft.com/img/logo_icon.png
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\logo_icon.png
+Content Type: image/png
+
+Uri: https://zethacraft.com/img/marco1.png
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\marco1.png
+Content Type: image/png
+
+Uri: https://zethacraft.com/img/marco4.png
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\marco4.png
+Content Type: image/png
+
+Uri: https://zethacraft.com/img/NORMAL/BORDES_EN/Yuumi_Yuumi Cibermichi_Cyber Cat.webp
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\NORMAL\BORDES_EN\Yuumi_Yuumi Cibermichi_Cyber Cat.webp
+Content Type: image/webp
+
+Uri: https://zethacraft.com/img/NORMAL/MARCOS/5_DIAMANTE.webp
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\NORMAL\MARCOS\5_DIAMANTE.webp
+Content Type: image/webp
+
+Uri: https://zethacraft.com/img/OTROS_EN/BOTTOM_3D.webp
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\OTROS_EN\BOTTOM_3D.webp
+Content Type: image/webp
+
+Uri: https://zethacraft.com/img/OTROS_EN/HECHIZO_1/Flash.webp
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\OTROS_EN\HECHIZO_1\Flash.webp
+Content Type: image/webp
+
+Uri: https://zethacraft.com/img/OTROS_EN/HECHIZO_2/Ignite.webp
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\OTROS_EN\HECHIZO_2\Ignite.webp
+Content Type: image/webp
+
+Uri: https://zethacraft.com/img/OTROS_EN/RUNA_1/Electrocute.webp
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\OTROS_EN\RUNA_1\Electrocute.webp
+Content Type: image/webp
+
+Uri: https://zethacraft.com/img/OTROS_EN/RUNA_2/Sorcery.webp
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\OTROS_EN\RUNA_2\Sorcery.webp
+Content Type: image/webp
+
+Uri: https://zethacraft.com/img/tira_pagos.png
+File Name: C:\Downloaded Web Sites\zethacraft.com\img\tira_pagos.png
+Content Type: image/png
+
+Uri: https://zethacraft.com/js/app.js
+File Name: C:\Downloaded Web Sites\zethacraft.com\js\app.js
+Content Type: text/javascript
+
+Uri: https://zethacraft.com/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\zethacraft.com\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://zethacraft.com/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\zethacraft.com\js\jquery-3.6.0.min.js
+Content Type: text/javascript
+
+Uri: https://zethacraft.com/js/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\zethacraft.com\js\jquery-ui.min.js
+Content Type: text/javascript
+
+Uri: https://zethacraft.com/js/jsonVar.js
+File Name: C:\Downloaded Web Sites\zethacraft.com\js\jsonVar.js
+Content Type: text/javascript
+
+Uri: https://zethacraft.com/js/moment.js
+File Name: C:\Downloaded Web Sites\zethacraft.com\js\moment.js
+Content Type: text/javascript
+
+Uri: https://zethacraft.com/js/popper.min.js
+File Name: C:\Downloaded Web Sites\zethacraft.com\js\popper.min.js
+Content Type: text/javascript
+

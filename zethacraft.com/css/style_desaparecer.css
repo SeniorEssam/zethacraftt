@@ -1,0 +1,24 @@
+.manage_fit {
+    object-fit: cover;
+    transition: 0.3s;
+}
+
+@media (max-width: 1400px) {
+    .manage_fit {
+        object-fit: contain;
+    }
+}
+
+@media (max-width: 1400px) {
+    .manage_switch {
+        display: none !important;
+    }
+    
+    .panel_switch_ms{
+        display: flex !important;
+    }
+    
+    .px1400_desaprece{
+        display: none !important;
+    }
+}
